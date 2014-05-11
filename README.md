@@ -1,1 +1,1 @@
-Homwork in the book "Introduction to Algorithm".
+Homework in the book "Introduction to Algorithm".
